@@ -73,16 +73,16 @@
 ## Screenshots
 
 
-![1](https://github.com/polito-WA1-2024-exam/exam-1-junaidshah2940/assets/172491770/07234222-6ab8-493f-89be-46132d69c165)
+![1](https://github.com/MortezaGhoddousi/MEME_GAME/assets/143504966/6559a114-b7e8-451a-8400-ce6b6fbb221f)
 
 
-![2](https://github.com/polito-WA1-2024-exam/exam-1-junaidshah2940/assets/172491770/e3b11d08-0ecb-4bde-a095-7ee3a61fcb88)
+![2](https://github.com/MortezaGhoddousi/MEME_GAME/assets/143504966/8fe5be8d-bc92-476e-a941-52208aa59d7f)
 
 
-![3](https://github.com/polito-WA1-2024-exam/exam-1-junaidshah2940/assets/172491770/fef21c70-cbab-48ce-ac55-a3023fa8de58)
+![3](https://github.com/MortezaGhoddousi/MEME_GAME/assets/143504966/b37bdf04-6369-43d2-afd1-705c5cb3af3d)
 
 
-![4](https://github.com/polito-WA1-2024-exam/exam-1-junaidshah2940/assets/172491770/94d1d294-c695-4548-88d9-edce9aa44375)
+![4](https://github.com/MortezaGhoddousi/MEME_GAME/assets/143504966/c590aa4f-b397-45df-aa59-ddd66a64ad64)
 
 ## Users Credentials
 
